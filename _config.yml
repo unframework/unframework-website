@@ -1,0 +1,22 @@
+# Dependencies
+markdown:         redcarpet
+highlighter:      pygments
+
+# Permalinks
+permalink:        pretty
+relative_permalinks: true
+
+# Setup
+title:            unframework
+tagline:          'Personal website of Nick Matantsev'
+description:      'Personal website of Nick Matantsev'
+url:              http://unframework.com
+baseurl:          /
+
+host:             0.0.0.0
+
+author:
+  name:           'Nick Matantsev'
+  url:            https://twitter.com/unframework
+
+paginate:         5
