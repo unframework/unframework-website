@@ -1,6 +1,8 @@
 # Dependencies
 markdown:         redcarpet
 highlighter:      rouge
+redcarpet:
+  extensions: ["fenced_code_blocks"]
 
 # Permalinks
 permalink:        pretty
