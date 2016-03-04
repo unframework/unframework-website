@@ -12,9 +12,10 @@ See my [open source projects on GitHub](https://github.com/unframework), [Twitte
 UI architecture work:
 
 * [UI Rendering: Change Detection Without Observables](/ui-repaint)
-  * [vdom-live: minimalist virtual DOM renderer with no observables](https://github.com/unframework/vdom-live)
+    * [vdom-live: minimalist virtual DOM renderer with no observables](https://github.com/unframework/vdom-live)
 * [MVC and Modeling User Attention Span](/view-attention-span)
-* [Airtight CSS Lint: enforcing encapsulation using BEM-like syntax](https://github.com/unframework/airtight-css-lint)
+* [HTML/CSS Encapsulation At Runtime](/html-css-encapsulation-at-runtime)
+    * [Airtight CSS Lint: enforcing encapsulation using BEM-like syntax](https://github.com/unframework/airtight-css-lint)
 * [Angular UX Tips](http://ng-ux.tips)
 
 Database persistence and ORM work:
