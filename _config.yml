@@ -1,8 +1,8 @@
 # Dependencies
-markdown:         redcarpet
+markdown:         kramdown
 highlighter:      rouge
-redcarpet:
-  extensions: ["fenced_code_blocks"]
+kramdown:
+  input: GFM
 
 # Permalinks
 permalink:        pretty
@@ -19,5 +19,3 @@ host:             0.0.0.0
 author:
   name:           'Nick Matantsev'
   url:            https://twitter.com/unframework
-
-paginate:         5
