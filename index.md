@@ -14,6 +14,8 @@ UI architecture work:
 * [UI Rendering: Change Detection Without Observables](/ui-repaint)
     * [vdom-live: minimalist virtual DOM renderer with no observables](https://github.com/unframework/vdom-live)
 * [MVC and Modeling User Attention Span](/view-attention-span)
+* [Modeling user focus](/user-focus-model)
+    * [Atomic Routes: decentralized nested client-side routing with Promises](https://github.com/unframework/atomic-routes)
 * [HTML/CSS Encapsulation At Runtime](/html-css-encapsulation-at-runtime)
     * [Airtight CSS Lint: enforcing encapsulation using BEM-like syntax](https://github.com/unframework/airtight-css-lint)
 * [Angular UX Tips](http://ng-ux.tips)
