@@ -12,8 +12,27 @@ layout: default
       </div>
 
       <h2>{{ page.title }}</h2>
-      <p><i>{{ page.date }}</i></p>
+      <p class="text-muted"><i>{{ page.date | date: '%b %-d, %Y' }}</i></p>
+
       {{ content }}
+
+      <p class="text-muted"><i>{{ page.date | date: '%b %-d, %Y' }}</i></p>
+      <p>&nbsp;</p>
+
+      <footer class="navbar navbar-default" role="navigation">
+        <div class="container-fluid">
+          <div class="navbar-header">
+            <a class="navbar-brand" href="/">unframework.com</a>
+          </div>
+          <div class="navbar-collapse">
+            <p class="navbar-text navbar-right">
+              Nick Matantsev
+              &middot;
+              <a href="/" class="navbar-link">Homepage</a>
+            </p>
+          </div>
+        </div>
+      </footer>
     </div>
     <div class="col-md-3">
     </div>
