@@ -9,10 +9,19 @@ My primary research interest is in modelling real-life communication and busines
 
 See my [open source projects on GitHub](https://github.com/unframework), [Twitter profile](https://twitter.com/unframework) and [Medium posts](https://medium.com/@unframework). Plus occasional [presentation upload on my SpeakerDeck page](https://speakerdeck.com/unframework).
 
+Workflow and ops hacks:
+
+* I am really interested in Git as representing both a snapshot state store and a malleable chain of worksets: it seems useful beyond coding, especially when bridging with non-tech workflows
+    * [git-inbox: Slack bot to convert uploads into Git commits/PRs](https://github.com/unframework/git-inbox)
+    * [S3 Password Agent: password-protect Amazon AWS S3 download links for static sites like Jekyll / GitHub Pages](https://github.com/unframework/s3-password-agent)
+
 UI architecture work:
 
 * [UI Rendering: Change Detection Without Observables](/ui-repaint)
     * [vdom-live: minimalist virtual DOM renderer with no observables](https://github.com/unframework/vdom-live)
+    * [html2hyperscript: Convert legacy HTML to Hyperscript](https://github.com/unframework/html2hyperscript) (quick helper utility for virtual-dom)
+* [Experimenting with RPC for UI/Backend Communication](https://medium.com/@unframework/experimenting-with-rpc-for-ui-backend-communication-8b6e214a7f7f#.oqw1js3u0)
+    * [remote-control: Call functions on node server from browser web UI for quick prototype wire-up](https://github.com/unframework/remote-control)
 * [MVC and Modeling User Attention Span](/view-attention-span)
 * [Modeling user focus](/user-focus-model)
     * [Atomic Routes: decentralized nested client-side routing with Promises](https://github.com/unframework/atomic-routes)
