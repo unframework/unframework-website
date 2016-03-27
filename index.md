@@ -9,7 +9,7 @@ My primary research interest is in modelling real-life communication and busines
 
 See my [open source projects on GitHub](https://github.com/unframework), [Twitter profile](https://twitter.com/unframework) and [Medium posts](https://medium.com/@unframework). Plus occasional [presentation upload on my SpeakerDeck page](https://speakerdeck.com/unframework).
 
-Workflow and ops hacks:
+Workflow and team operations:
 
 * I am really interested in Git as representing both a snapshot state store and a malleable chain of worksets: it seems useful beyond coding, especially when bridging with non-tech workflows
     * [git-inbox: Slack bot to convert uploads into Git commits/PRs](https://github.com/unframework/git-inbox)
@@ -38,3 +38,9 @@ Database persistence and ORM work:
 Exploration of mobile product UX and packaging:
 
 * [Shift Pod: Nurses](https://play.google.com/store/apps/details?id=com.unframework.nursingshifttracker) (Android home screen widget for nurse shifts)
+
+Misc hacks:
+
+* [Motepad: rich text editor rendered in pure JS and DOM](https://github.com/unframework/motepad)
+* [Cathode Green: side-scrolling bike physics platformer game in browser](https://github.com/unframework/cathode-green)
+* [Minimal Socket.IO replacement layer for high-performance sites](https://github.com/unframework/fusio) (open-sourced from a defunct commercial project)
