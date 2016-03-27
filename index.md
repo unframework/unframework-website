@@ -34,3 +34,7 @@ Database persistence and ORM work:
 * [Fxrm Store: DDD-inspired alternate ORM library](https://github.com/fxrm/fxrm-store)
 * [Enterprise Apps: ORM vs Key-Value Storage Model](/orm-vs-key-value)
     * [Somewhat discouraging responses on Reddit :)](https://www.reddit.com/r/programming/comments/2t36ra/disappointed_in_orm_keyvalue_store_might_be_a/)
+
+Exploration of mobile product UX and packaging:
+
+* [Shift Pod: Nurses](https://play.google.com/store/apps/details?id=com.unframework.nursingshifttracker) (Android home screen widget for nurse shifts)
