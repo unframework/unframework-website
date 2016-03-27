@@ -18,7 +18,7 @@ Workflow and ops hacks:
 UI architecture work:
 
 * [UI Rendering: Change Detection Without Observables](/ui-repaint)
-    * [vdom-live: minimalist virtual DOM renderer with no observables](https://github.com/unframework/vdom-live)
+    * [vdom-live: minimalist virtual DOM render loop with no observables](https://github.com/unframework/vdom-live)
     * [html2hyperscript: Convert legacy HTML to Hyperscript](https://github.com/unframework/html2hyperscript) (quick helper utility for virtual-dom)
 * [Experimenting with RPC for UI/Backend Communication](https://medium.com/@unframework/experimenting-with-rpc-for-ui-backend-communication-8b6e214a7f7f#.oqw1js3u0)
     * [remote-control: Call functions on node server from browser web UI for quick prototype wire-up](https://github.com/unframework/remote-control)
