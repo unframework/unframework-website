@@ -9,6 +9,11 @@ My primary research interest is in modelling real-life communication and busines
 
 See my [open source projects on GitHub](https://github.com/unframework), [Twitter profile](https://twitter.com/unframework) and [Medium posts](https://medium.com/@unframework). Plus occasional [presentation upload on my SpeakerDeck page](https://speakerdeck.com/unframework).
 
+Ubiquitous UI/UX:
+
+* The new wave of attention paid to chat-based interfaces points to some possible new massive shifts in "casual app" interaction
+    * [My notes on initial development setup for Facebook Messenger bots](/facebook-bot-setup)
+
 Workflow and team operations:
 
 * I am really interested in Git as representing both a snapshot state store and a malleable chain of worksets: it seems useful beyond coding, especially when bridging with non-tech workflows
