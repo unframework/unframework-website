@@ -28,6 +28,6 @@ Because all playback was done in 1/16 slices, there were some artifacts in the c
 
 This was also a good opportunity to use my Camtasia Studio, finally, and record a demo video. Almost a year ago I installed Camtasia because I was hoping to record some coding tutorials. That went nowhere, but then this February I still decided to shell out for a full license (I believe in just buying a decent tool instead of spending time researching free hacks/pirating). Cost a couple hundred bucks, so I hope I make more than just that one video!
 
-And here is the resulting [demo clip of me playing with the sampler](https://www.youtube.com/watch?v=uZM0nfuLfxM).
+And here is the resulting [demo clip of me playing with the sampler](https://www.youtube.com/watch?v=uZM0nfuLfxM). The [source code](https://github.com/unframework/eltrn) is available on GitHub.
 
 I have done some more work on top of that, actually, converting the UI to be WebGL-based (drawing from another set of building blocks in my work folder), and supporting pitch changes and reverse-play, but that needs a separate write-up.
