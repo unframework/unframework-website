@@ -9,6 +9,20 @@ My primary research interest is in modelling real-life communication and busines
 
 See my [open source projects on GitHub](https://github.com/unframework), [Twitter profile](https://twitter.com/unframework) and [Medium posts](https://medium.com/@unframework). Plus occasional [presentation upload on my SpeakerDeck page](https://speakerdeck.com/unframework).
 
+Instead of a bio, some selected fave programming moments from my childhood and into recent times:
+
+* coding Bresenham lines for CGA and VGA display using INT10 in Turbo C
+* getting Quake3 level spline patches to load and render using OpenGL in my Verlet-based physics racer experiment (I used them to make a half-pipe)
+* fixing a cgi-bin script written in Bash
+* getting over impostor syndrome by reading other people's Perl CPAN code
+* becoming comfortable with Prolog
+* hacking together a simple constructive solid geometry (CSG) triangulation proof of concept (Java, BSP trees)
+* observing first live client user tests early in my freelancing career (experiencing what failed UX assumptions are like)
+* sending basic graphics direct to a SunRay thin client display (Java, with help from reverse-engineered UDP protocol docs)
+* watching live production traffic ramp up on a WebSocket-based chat I helped build for an N-million user social site
+
+Some of my more recent write-ups and research work follow.
+
 Ubiquitous UI/UX:
 
 * The new wave of attention paid to chat-based interfaces points to some possible new massive shifts in "casual app" interaction
