@@ -28,12 +28,6 @@ Ubiquitous UI/UX:
 * The new wave of attention paid to chat-based interfaces points to some possible new massive shifts in "casual app" interaction
     * [My notes on initial development setup for Facebook Messenger bots](/facebook-bot-setup)
 
-Workflow and team operations:
-
-* I am really interested in Git as representing both a snapshot state store and a malleable chain of worksets: it seems useful beyond coding, especially when bridging with non-tech workflows
-    * [git-inbox: Slack bot to convert uploads into Git commits/PRs](https://github.com/unframework/git-inbox)
-    * [S3 Password Agent: password-protect Amazon AWS S3 download links for static sites like Jekyll / GitHub Pages](https://github.com/unframework/s3-password-agent)
-
 UI architecture work:
 
 * [UI Rendering: Change Detection Without Observables](/ui-repaint)
@@ -53,6 +47,12 @@ Database persistence and ORM work:
 * [Fxrm Store: DDD-inspired alternate ORM library](https://github.com/fxrm/fxrm-store)
 * [Enterprise Apps: ORM vs Key-Value Storage Model](/orm-vs-key-value)
     * [Somewhat discouraging responses on Reddit :)](https://www.reddit.com/r/programming/comments/2t36ra/disappointed_in_orm_keyvalue_store_might_be_a/)
+
+Workflow and team operations:
+
+* I am really interested in Git as representing both a snapshot state store and a malleable chain of worksets: it seems useful beyond coding, especially when bridging with non-tech workflows
+    * [git-inbox: Slack bot to convert uploads into Git commits/PRs](https://github.com/unframework/git-inbox)
+    * [S3 Password Agent: password-protect Amazon AWS S3 download links for static sites like Jekyll / GitHub Pages](https://github.com/unframework/s3-password-agent)
 
 Exploration of mobile product UX and packaging:
 
