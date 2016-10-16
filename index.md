@@ -9,15 +9,16 @@ My primary research interest is in modelling real-life communication and busines
 
 See my [open source projects on GitHub](https://github.com/unframework), [Twitter profile](https://twitter.com/unframework) and [Medium posts](https://medium.com/@unframework). Plus occasional [presentation upload on my SpeakerDeck page](https://speakerdeck.com/unframework).
 
-Instead of a bio, some selected fave programming moments from my childhood and into recent times:
+Favourite moments that shaped who I am as a techie:
 
-* coding Bresenham lines for CGA and VGA display using INT10 in Turbo C
+* coding Bresenham lines for CGA and VGA display using INT10 in Turbo C as a pre-teen
 * getting Quake3 level spline patches to load and render using OpenGL in my Verlet-based physics racer experiment (I used them to make a half-pipe)
-* fixing a cgi-bin script written in Bash
+* fixing a cgi-bin script written in Bash, in 1999
+* live-editing MBR and swapping a Linux root partition to use software RAID-1 on a small office server
 * getting over impostor syndrome by reading other people's Perl CPAN code
 * becoming comfortable with Prolog
 * hacking together a simple constructive solid geometry (CSG) triangulation proof of concept (Java, BSP trees)
-* observing first live client user tests early in my freelancing career (experiencing what failed UX assumptions are like)
+* eating humble pie by seeing live user tests break my UX assumptions on early freelancing projects
 * sending basic graphics direct to a SunRay thin client display (Java, with help from reverse-engineered UDP protocol docs)
 * watching live production traffic ramp up on a WebSocket-based chat I helped build for an N-million user social site
 
