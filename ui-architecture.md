@@ -1,6 +1,7 @@
 ---
-layout: front
+layout: service
 title: 'Nick Matantsev: UI Architect'
+tagline: 'UI Architect'
 ---
 
 Building modern Web user interfaces is a battleground of complexity and competing requirements. Traditionally underestimated, a slew of "underwater rocks" threaten project deadlines, inflate budgets and result in poorly-performing and alienating user experiences: all despite project teams' best intentions. Ever-changing specifications and large codebases compound these effects exponentially.
