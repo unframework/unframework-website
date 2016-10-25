@@ -61,7 +61,7 @@ Exploration of mobile product UX and packaging:
 
 Misc hacks:
 
-* [WebAudio music toy](/webaudio-music-toy): [demo video](https://www.youtube.com/watch?v=uZM0nfuLfxM) and [source code](https://github.com/unframework/eltrn)
+* [WebAudio music toy](/webaudio-music-toy): [live demo](http://unframework.github.io/eltrn/), [demo video](https://www.youtube.com/watch?v=uZM0nfuLfxM) and [source code](https://github.com/unframework/eltrn)
 * [Motepad: rich text editor rendered in pure JS and DOM](https://github.com/unframework/motepad)
 * [Cathode Green: side-scrolling bike physics platformer game in browser](https://github.com/unframework/cathode-green)
 * [Minimal Socket.IO replacement layer for high-performance sites](https://github.com/unframework/fusio) (open-sourced from a defunct commercial project)
