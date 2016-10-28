@@ -8,6 +8,8 @@ Building modern Web user interfaces is a battleground of complexity and competin
 
 Take control of project risk around UI requirements by including an experienced UI architect on board as early as possible. Well-designed foundations add stability to feature delivery and maintenance of the project for the months and years of its existence.
 
+For projects that are already underway, consider a midterm UI architecture spot check: it might just save your team from unknowingly settling on an inefficient tooling combination, missing out on cost-saving techniques or accepting quality levels that the market will reject.
+
 ## Services
 
 Available UI architecture and software engineering services include:
