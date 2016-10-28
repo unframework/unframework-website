@@ -16,6 +16,7 @@ Favourite moments that shaped who I am as a techie:
 * fixing a cgi-bin script written in Bash, in 1999
 * live-editing MBR and swapping a Linux root partition to use software RAID-1 on a small office server
 * getting over impostor syndrome by reading other people's Perl CPAN code
+* taking a proper accounting class and secretly loving it (most useful university course ever)
 * becoming comfortable with Prolog
 * hacking together a simple constructive solid geometry (CSG) triangulation proof of concept (Java, BSP trees)
 * eating humble pie by seeing live user tests break my UX assumptions on early freelancing projects

@@ -21,7 +21,7 @@ Available UI architecture and software engineering services include:
 - packaging and minifying code; Require.js, Grunt, Gulp, Webpack, Browserify
 - production deployment, SSL/TLS setup, CDN and HTTP caching, Apache/Nginx tuning
 - all current frameworks supported: AngularJS, React, Backbone, jQuery, Java, Node.js, PHP, Amazon AWS, REST, others
-- high-kLoC CSS codebase management
+- high-kLoC CSS/LESS/SCSS/SASS codebase management, BEM-based semantic selector techniques
 
 Developer coaching and sessions also available.
 
