@@ -16,6 +16,7 @@ Available UI architecture and software engineering services include:
 - multi-release, multi-language i18n pipeline, accessibility-friendly
 - mobile responsiveness and bandwidth optimization
 - local and staging environment pipeline, DevOps, testing, CI, API mocks
+- packaging and minifying code; Grunt, Gulp, Webpack
 - production deployment, SSL/TLS setup, CDN and HTTP caching, Apache/Nginx tuning
 - all current frameworks supported: AngularJS, React, Backbone, jQuery, Java, Node.js, PHP, Amazon AWS, REST, others
 - high-kLoC CSS codebase management
