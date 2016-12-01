@@ -43,6 +43,8 @@ UI architecture work:
 * [HTML/CSS Encapsulation At Runtime](/html-css-encapsulation-at-runtime)
     * [Airtight CSS Lint: enforcing encapsulation using BEM-like syntax](https://github.com/unframework/airtight-css-lint)
 * [Angular UX Tips](http://ng-ux.tips)
+* [Auto-publishing Browserify to GitHub Pages](https://github.com/unframework/browserify-github-pages)
+    * simple recipe to publish compiled Browserify projects to GitHub Pages using TravisCI
 
 Database persistence and ORM work:
 
