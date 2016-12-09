@@ -1,10 +1,10 @@
 ---
 layout: page
-title: 'About the Browserify GitHub Pages Setup Quickstart Doc'
+title: 'Quickstart Setup to Push Browserified Code to GitHub Pages'
 date: 2016-12-09
 ---
 
-This is a write-up about the [Browserify GitHub Pages setup quickstart doc](https://github.com/unframework/browserify-github-pages): some background motivation and ensuing challenges.
+This is a write-up about how I arrived at the [Browserify GitHub Pages setup quickstart doc](https://github.com/unframework/browserify-github-pages): some background motivation and ensuing challenges.
 
 I have been using [Browserify](http://browserify.org/) to build a ton of side project hacks. Accessing the vast enormity of npm libraries in the browser is super useful for quickly setting up a prototype and even making something to share back as an open source module.
 
