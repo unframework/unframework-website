@@ -27,7 +27,7 @@ Developer coaching and sessions also available.
 
 ## Bio
 
-Nick Matantsev is a deeply experienced software architect with over 14 years of planning, programming and maintaining enterprise software. Most of Nick's work has been in the telecom, finance and healthcare industries, with a diverse variety of engagements in other areas ranging from social to CRM to mobile. He has a breadth of experience working in agile team environments as well as steering the Scrum process (product owner certificate).
+Nick Matantsev is a deeply experienced software architect with over 14 years of planning, programming and maintaining enterprise software. Most of Nick's work has been in the telecom, finance and healthcare industries, with a diverse variety of engagements in other areas ranging from social to CRM to mobile. He has a breadth of experience working in agile team environments as well as steering the Scrum process (product owner certification).
 
 Nick's software development expertise is heavily focused on reliable delivery of high-quality user interfaces. Nick regularly presents on technical topics such as DevOps and front-end engineering and has authored several open source projects.
 
