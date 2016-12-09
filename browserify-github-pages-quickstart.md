@@ -1,7 +1,7 @@
 ---
 layout: page
 title: 'About the Browserify GitHub Pages Setup Quickstart Doc'
-date: 2015-01-20
+date: 2016-12-09
 ---
 
 This is a write-up about the [Browserify GitHub Pages setup quickstart doc](https://github.com/unframework/browserify-github-pages): some background motivation and ensuing challenges.
