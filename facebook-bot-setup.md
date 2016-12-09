@@ -4,21 +4,17 @@ title: Facebook Bot Setup
 date: 2016-05-05
 ---
 
-Bots are cool, I guess?
+Facebook Messenger bot API was announced at F8 - time to hack on new APIs! Actually, the other interesting opportunity here is to discover a new kind of interaction pattern - via rich text messages instead of e.g. mobile web view.
 
-F8 rolled around and Messenger Bots were announced. Time to hack on new APIs. Actually, the more interesting bit is discovering a new kind of interaction pattern. Blah, blah, usual hype too, of course, but still several reasons to like the direction where things are going with the bot APIs. And, of course, WeChat has had this for a while, and LINE allows direct programmatic bot access too - some real market examples of this working. Trend noise is happening, and as usual a portion of it is just noise; but some of the substance is awesome and is here to stay.
+There has been a lot of hype about bots, but there are several reasons to like the direction where things are going with the bot APIs. WeChat has had this for a while, and LINE allows direct programmatic bot access too - some real market examples of this working. Trend noise is happening, and as usual a portion of it is just noise; but some of the substance is awesome and is here to stay.
 
-I belong in the grumpy techie camp, and all the conversational/NLP/magical-Jarvis-AI elements of the chat-bot trend are just not connecting with me, intuitively. NLP is really awesome and hard to do: I actually tried out the Stanford NLP SDK package a few years ago and was amazed at the kind of annotated output I could get out of the box. Really cool tech. Something is already coming out of it, but just not in the consumer app UX area yet. People don't like uncertainty, and magical AI is uncertain. Do I have to be polite to it? Will people think I am a jerk if I am not? (I know I would!) It's just iffy UX.
+I belong in the grumpy techie camp, so the conversational/NLP/magical-Jarvis-AI elements of the chat-bot trend are just not connecting with me, intuitively. NLP is really hard to do: the tech is amazing but pretty hard to make consistently work. People don't like uncertainty, and magical language-parsing AI is not certain to work 100%. Plus, do I have to be polite to it? What are the social interaction norms? UX is not yet fully settled.
 
-Plus, in the current geo-economic climate it is often still more cost-effective to outsource the conversation layer to humans - and might as well share the dollars outside of the golden billion (maybe I am biased, since it's sort of where I come from). There are a couple pizza ordering example AI apps out there: I saw a good comment online describing how a typical Domino's will have people working the phone while they are idle already, so there are no real savings from automatic parsing in such cases. Of course, the conversation layer may not be needed, to begin with.
+As another aside, the savings of automating the human conversation layer may not be that high. E.g. pizza ordering apps do not necessarily save too much in cost: a typical Domino's will have people working the phone while they are idle already, so automating parsing is not the first priority.
 
-But the basic send/receive API is great, and with the extra postback interaction features + marketing push it may create ground for lots of tiny ubiquitous UX interactions, like SMS apps did way back (and which Twilio continues to rock with). A huge piece of value is the fact that Messenger contact ID is trusted, which skips a possible need for login (OAuth popups suck). As the [incisive Dan Grover article](http://dangrover.com/blog/2016/04/20/bots-wont-replace-apps.html) said, identity + eventual payment info is an enormous piece of meta-information to mix into the UX.
+Anyway, the new ability to use Facebook Messenger's Send/Receive API is great; richer interaction features + surrounding marketing push may create ground for lots of tiny ubiquitous UX interactions, like SMS apps did way back (and which Twilio continues to rock with). Another huge piece of value is the fact that the provided Messenger contact ID is trusted, which skips a possible need for login (OAuth popups suck). As the [incisive Dan Grover article](http://dangrover.com/blog/2016/04/20/bots-wont-replace-apps.html) said, identity + eventual payment info is an enormous piece of meta-information to mix into the UX.
 
-Who knows. At least it's an excuse to hack on things with a yet another new API.
-
-Anyways, the core Facebook Messenger Send/Receive API is pretty trivial to get going with.
-
-Some of the setup has nothing to do with tech, but just Social-Media-101. Like setting up FB pages.
+The core Facebook Messenger Send/Receive API is pretty trivial to get going with. Some of the setup has nothing to do with tech, but just Social-Media-101, like setting up FB pages.
 
 FB pages are the Messenger contacts that are the bot "identity". Then there is the concept of the FB app: an actual bridge to specific custom code. One app ID seems to be able to service many different page identities - so it works just like any other page plugin. Theoretically, a SaaS-y kind of offering could just have many page admins signing up to it and then provide multi-tenant service.
 
