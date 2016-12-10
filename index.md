@@ -9,19 +9,7 @@ My primary research interest is in modelling real-life communication and busines
 
 See my [open source projects on GitHub](https://github.com/unframework), [Twitter profile](https://twitter.com/unframework) and [Medium posts](https://medium.com/@unframework). Plus occasional [presentation upload on my SpeakerDeck page](https://speakerdeck.com/unframework). I also dabble in pictures: [see my Flickr profile](https://www.flickr.com/photos/nickmatantsev/).
 
-Favourite moments that shaped who I am as a techie:
-
-* coding Bresenham lines for CGA and VGA display using INT10 in Turbo C as a pre-teen
-* getting Quake3 level spline patches to load and render using OpenGL in my Verlet-based physics racer experiment (I used them to make a half-pipe)
-* fixing a cgi-bin script written in Bash, in 1999
-* live-editing MBR and swapping a Linux root partition to use software RAID-1 on a small office server
-* getting over impostor syndrome by reading other people's Perl CPAN code
-* taking a proper accounting class and secretly loving it (most useful university course ever)
-* becoming comfortable with Prolog
-* hacking together a simple constructive solid geometry (CSG) triangulation proof of concept (Java, BSP trees)
-* eating humble pie by seeing live user tests break my UX assumptions on early freelancing projects
-* sending basic graphics direct to a SunRay thin client display (Java, with help from reverse-engineered UDP protocol docs)
-* watching live production traffic ramp up on a WebSocket-based chat I helped build for an N-million user social site
+I was born into a family of engineers, and my life has always revolved around tech. My mother worked as a lead programmer on a team, and brought home books about C, graphics algorithms and computer internals. My father fed me math challenges and assembly language instruction manuals. In high-school, I helped my friends set up game modding sites and manage discussion forums. And my early start in the corporate world (at age 18, as a summer contract intern at a financial institution) helped me balance technical problem-solving against the *realpolitik* of large teams.
 
 Some of my more recent write-ups and research work follow.
 
