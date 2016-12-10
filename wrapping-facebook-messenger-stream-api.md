@@ -54,8 +54,8 @@ And that's kind of it. I did not add code to parse/construct actual FB data cont
 
 Using this stream-oriented abstraction helps organize the code better and makes the bot logic core easier to reason about.
 
-Another useful benefit is that the resulting interface is clean and testable: instead of mocking/stubbing the entire HTTP plumbing infrastructure, it is possible to just create mock streams as test fixtures.
+The most useful benefit is probably that the resulting application logic interface surface is quite clean and *testable*: instead of mocking/stubbing the entire HTTP plumbing infrastructure, it is possible to just create mock streams as test fixtures. In addition, one could imagine a local development mode that fully substitutes the "live" streams with a local debug harness for true offline workflow. That's the main practical reason to prefer this API over others.
 
-Finally, I just like this abstraction and the Unix-y mindset behind it; so far it seems like a fairly novel approach to this specific API. I am a huge fan of simple and modular building blocks, and hopefully this library can count as an example of those as well!
+Finally, on a more subjective note, I just like this abstraction and the Unix-y mindset behind it; so far it seems like a fairly novel approach to this specific API. I am a huge fan of simple and modular building blocks, and hopefully this library can count as an example of those as well!
 
 The resulting code has been published as the [facebook-messenger-streams npm module](https://www.npmjs.com/package/facebook-messenger-streams), with [usage examples and source code available on GitHub](https://github.com/myplanet/facebook-messenger-streams). Take a look at the implementation (it's pretty tiny at around ~50-80 LoC) and leave a star or a comment in the issues section!
