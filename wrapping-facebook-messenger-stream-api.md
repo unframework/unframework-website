@@ -4,7 +4,7 @@ title: 'Wrapping Facebook Messenger API in Node.js Streams'
 date: 2016-12-10
 ---
 
-For about half a year now, Facebook Messenger has been accessible and scriptable via their [Send/Receive API](https://developers.facebook.com/docs/messenger-platform). I have been doing work with that platform for most of that time, building tiny chatbot concepts, prototypes, etc, on top of it. It's not rocket science, but definitely allows for some nifty interactions.
+For about half a year now, Facebook Messenger has been accessible and scriptable via their [Send/Receive API](https://developers.facebook.com/docs/messenger-platform). I have been doing work with that platform for most of that time, building tiny chatbot concepts, prototypes, etc, on top of it. Pretty straightforward, but definitely allows for some nifty interactions.
 
 My platform of choice for those prototypes has been Node.js. The Messenger platform sends incoming user messages to the bot as webhook POST requests, and the bot can respond by submitting a REST payload to the Graph API endpoint. From the start, instead of using one of the several pre-made npm packages that wrap that bot API I have been rolling my own webhook code - to learn the API better and to keep up with its changes and quirks more easily. The mechanisms are not too complex, and it was definitely worth learning them in the raw form.
 
