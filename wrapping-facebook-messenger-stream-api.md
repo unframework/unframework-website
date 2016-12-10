@@ -1,7 +1,7 @@
 ---
 layout: page
 title: 'Wrapping Facebook Messenger API in Node.js Streams'
-date: 2016-12-09
+date: 2016-12-10
 ---
 
 For about half a year now, Facebook Messenger has been accessible and scriptable via their [Send/Receive API](https://developers.facebook.com/docs/messenger-platform). I have been doing work with that platform for most of that time, building tiny chatbot concepts, prototypes, etc, on top of it. It's not rocket science, but definitely allows for some nifty interactions.

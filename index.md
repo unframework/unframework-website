@@ -27,9 +27,10 @@ Some of my more recent write-ups and research work follow.
 
 Ubiquitous UI/UX:
 
+* [Wrapping Facebook Messenger API in a stream interface](/wrapping-facebook-messenger-stream-api)
+    * [facebook-messenger-streams: Facebook Messenger API Stream Wrapper](https://github.com/myplanet/facebook-messenger-streams)
 * The new wave of attention paid to chat-based interfaces points to some possible new massive shifts in "casual app" interaction
     * [My notes on initial development setup for Facebook Messenger bots](/facebook-bot-setup)
-    * [Stream-oriented wrapper lib for Facebook Messenger API](https://github.com/myplanet/facebook-messenger-streams)
 
 UI architecture work:
 
