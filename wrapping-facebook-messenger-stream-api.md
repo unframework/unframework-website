@@ -4,13 +4,15 @@ title: 'Wrapping Facebook Messenger API in Node.js Streams'
 date: 2016-12-09
 ---
 
-I have been hacking on the [Facebook Messenger API](https://developers.facebook.com/docs/messenger-platform) for a while now, building tiny bot concepts, prototypes, etc, on top of it. My platform of choice for this has been Node.js, but instead of using one of the several pre-made npm packages that wrap the bot API I have been rolling my own webhook code - to learn the API better, to keep up with its changes and quirks more easily. Messenger platform sends incoming user messages as webhook POST requests, and the bot can respond by submitting a REST payload to the Graph API endpoint: not too complex, and it was definitely worth learning the underlying mechanisms.
+For about half a year now, Facebook Messenger has been accessible and scriptable via their [Send/Receive API](https://developers.facebook.com/docs/messenger-platform). I have been doing work with that platform for most of that time, building tiny chatbot concepts, prototypes, etc, on top of it. It's not rocket science, but definitely allows for some nifty interactions.
 
-But of course there was still always a need to roll up the reusable FB API wrapper code and isolate it in a separate module. At the very least my own new prototypes could then get a quicker start, with code that I already know. Plus, this was also a handy opportunity to practice API design, even if the consumer would still just be me.
+My platform of choice for those prototypes has been Node.js. The Messenger platform sends incoming user messages to the bot as webhook POST requests, and the bot can respond by submitting a REST payload to the Graph API endpoint. From the start, instead of using one of the several pre-made npm packages that wrap that bot API I have been rolling my own webhook code - to learn the API better and to keep up with its changes and quirks more easily. The mechanisms are not too complex, and it was definitely worth learning them in the raw form.
+
+But of course there was still always a desire to roll up the accumulated reusable FB API wrapper code and isolate it in a separate module. At the very least my own new prototypes could then get a quicker start, with code that I already know. Plus, this was also a handy opportunity to practice API design, even if the consumer would still just be me.
 
 So, I started to consider a better way to reinvent this wheel... And after a while, inspiration hit me - why not use a stream abstraction?
 
-The series of Messenger events that is sent to the bot, and the outgoing messages back to the user - those are just like Unix input and output streams! Conceptually, the bot can be visualized as accepting a pipe of incoming messages from Facebook servers, and then directing its output into the pipe going back to the Messenger platform.
+The series of Messenger events that is sent to the bot, and the outgoing messages pushed back to the user - those are just like Unix input and output streams! Conceptually, the bot can be visualized as accepting a pipe of incoming messages from Facebook servers, and then directing its output into the pipe going back to the Messenger platform.
 
 I have a soft spot for elegant abstractions, and this seemed like a really fun one to try.
 
@@ -48,7 +50,7 @@ var userOutputStream = new FBUserOutputStream(
 userOutputStream.write({ text: 'Hi there!' });
 ```
 
-And that's kind of it. I did not add code to parse/construct actual FB data contents: that may really vary per project anyway, and should then just be a separate module too.
+And that's kind of it. I did not add code to parse/construct actual FB data contents: the needs may really vary per project anyway, so I'd rather have this functionality in a separate module.
 
 Using this stream-oriented abstraction helps organize the code better and makes the bot logic core easier to reason about.
 
