@@ -9,7 +9,7 @@ My primary research interest is in modelling real-life communication and busines
 
 See my [open source projects on GitHub](https://github.com/unframework), [Twitter profile](https://twitter.com/unframework) and [Medium posts](https://medium.com/@unframework). Plus occasional [presentation upload on my SpeakerDeck page](https://speakerdeck.com/unframework). I also dabble in pictures: [see my Flickr profile](https://www.flickr.com/photos/nickmatantsev/).
 
-I was born into a family of engineers, and my life has always revolved around tech. My mother worked as a lead programmer on a team, and brought home books about C, graphics algorithms and computer internals. My father fed me math challenges and assembly language instruction manuals. In high-school, I helped my friends set up game modding sites and manage discussion forums. And my early start in the corporate world (at age 18, as a summer contract intern at a financial institution) helped me balance technical problem-solving against the *realpolitik* of large teams.
+My life has always revolved around tech: I was even born into a family of engineers. My mother worked as a lead programmer on a team, and brought home books about C, graphics algorithms and computer internals. My father fed me math challenges and assembly language instruction manuals. In high-school, I helped my friends set up websites and programmed server software for them. And my early start in the corporate world (at age 18, as a summer contract intern at a financial institution) helped me learn how to balance technical problem-solving against the *realpolitik* of large teams.
 
 Some of my more recent write-ups and research work follow.
 
