@@ -1,35 +1,33 @@
 ---
 layout: service
-title: 'Front-end Software Architecture & Engineering'
+title: 'Front-end Engineering & Software Architecture'
 tagline: 'Professional Services by Nick Matantsev'
 ---
 
-Building modern Web user interfaces is a battleground of complexity and competing requirements. Traditionally underestimated, a slew of "underwater rocks" threaten project deadlines, inflate budgets and result in poorly-performing and alienating user experiences: all despite project teams' best intentions. Ever-changing specifications and large codebases compound these effects exponentially.
-
-Take control of project risk by including an experienced front-end software architect on board as early as possible. A well-thought-out foundation adds stability to feature delivery and maintenance of the project for the months and years of its existence.
-
-For projects that are already underway, consider a midterm architecture spot check: it might just save your team from missing out on cost-saving techniques or producing quality below market expectation.
+Hi there, I am Nick, and I would love to help architect, build out and deliver your next enterprise UI or portal. This niche has been my core focus for many years now, and I have a proven track record of confidently guiding technical effort and architecting against project risks. Plus, of course, actually writing code - lots and lots of it.
 
 ## Services
 
-Available front-end software architecture and engineering services include:
+Available front-end development and software architecture services include:
 
-- Web enterprise portal login, SSO, forms, notifications, realtime WebSockets/Socket.io, embedding
-- multi-release, multi-language i18n pipeline, accessibility-friendly
+- current frameworks and languages: React/Redux, AngularJS, Backbone, jQuery, Java, Node.js, PHP, et al
+- Web enterprise portal login, SSO, forms, notifications, realtime WebSockets/Socket.io, legacy CMS embedding
+- multi-release, multi-language i18n pipeline, accessibility-savvy
 - mobile responsiveness and bandwidth optimization
 - local and staging environment pipeline, DevOps, testing, CI, API mocks, "1 Hertz dev"
 - packaging and minifying code; Require.js, Grunt, Gulp, Webpack, Browserify
 - production deployment, SSL/TLS setup, CDN and HTTP caching, Apache/Nginx tuning
-- all current frameworks supported: AngularJS, React, Backbone, jQuery, Java, Node.js, PHP, Amazon AWS, REST, others
 - high-kLoC CSS/LESS/SCSS/SASS codebase management, BEM-based semantic selector techniques
 
 Developer coaching and sessions also available.
 
 ## Bio
 
-Nick Matantsev is a deeply experienced software architect with over 14 years of planning, programming and maintaining enterprise software. Most of Nick's work has been in the telecom, finance and healthcare industries, with a diverse variety of engagements in other areas ranging from social to CRM to mobile. He has a breadth of experience working in agile team environments as well as steering the Scrum process (product owner certification).
+Nick Matantsev is an experienced software architect with over 14 years of planning, programming and maintaining enterprise software. Most recently, Nick has spent 3 years leading the development and roll-out of an enterprise videoconferencing product used by some of the world's largest telecom companies across twelve timezones. Nick's technical skillset is full-stack, and his production experience is centered on the finance, healthcare and telecom industries.
 
-Nick's software development expertise is heavily focused on reliable delivery of high-quality user interfaces. Nick regularly presents on technical topics such as DevOps and front-end engineering and has authored several open source projects.
+Having spent years in lean and agile team environments, Nick is fluent in the Scrum process (product owner certification); he coaches developers, regularly presents on technical topics such as DevOps and front-end engineering and has authored several open source projects.
+
+Outside of work, Nick is an avid cyclist and photographer. He is a big fan of sushi and traditional-style sauna.
 
 ## Contact
 
