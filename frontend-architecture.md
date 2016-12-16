@@ -4,14 +4,15 @@ title: 'Front-end Engineering & Software Architecture'
 tagline: 'Professional Services by Nick Matantsev'
 ---
 
-Hi there, I am Nick, and I would love to help architect, build out and deliver your next enterprise UI or portal. This area has been my core focus for many years now, and I have a proven track record of confidently guiding technical effort and architecting against project risks. Plus, of course, actually writing code - lots and lots of it.
+Hi there, I am Nick, and I am ready to help architect, build out and deliver your next enterprise UI or portal. This area of software development has been my core focus for many years now, and I have a proven track record of confidently guiding technical effort and architecting against project risks. Plus, of course, actually writing code - lots and lots of it.
 
 ## Services
 
 Available front-end development and software architecture services include:
 
-- current frameworks and languages: React/Redux, AngularJS, Backbone, jQuery, Java, Node.js, PHP, et al
+- up-to-date frameworks and languages: React/Redux, AngularJS, Backbone, jQuery, Java, Node.js, PHP, et al
 - Web enterprise portal login, SSO, forms, notifications, realtime WebSockets/Socket.io, legacy CMS embedding
+- middleware, REST and microservice-driven architecture, back-office API integration
 - multi-release, multi-language i18n pipeline, accessibility-savvy
 - mobile responsiveness and bandwidth optimization
 - local and staging environment pipeline, DevOps, testing, CI, API mocks, "1 Hertz dev"
@@ -27,7 +28,7 @@ Nick Matantsev is an experienced software architect with over 14 years of planni
 
 Having spent years in lean and agile team environments, Nick is fluent in the Scrum process (product owner certification); he coaches developers, regularly presents on technical topics such as DevOps and front-end engineering and has authored several open source projects.
 
-Outside of work, Nick is an avid cyclist and photographer. He is a big fan of sushi and traditional-style sauna.
+Outside of work, Nick is an avid cyclist and photographer. He is a big fan of sushi and keeping up a regular cardio routine.
 
 ## Contact
 
