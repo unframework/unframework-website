@@ -4,7 +4,7 @@ title: 'Front-end Engineering & Software Architecture'
 tagline: 'Professional Services by Nick Matantsev'
 ---
 
-Hi there, I am Nick, and I would love to help architect, build out and deliver your next enterprise UI or portal. This niche has been my core focus for many years now, and I have a proven track record of confidently guiding technical effort and architecting against project risks. Plus, of course, actually writing code - lots and lots of it.
+Hi there, I am Nick, and I would love to help architect, build out and deliver your next enterprise UI or portal. This area has been my core focus for many years now, and I have a proven track record of confidently guiding technical effort and architecting against project risks. Plus, of course, actually writing code - lots and lots of it.
 
 ## Services
 
