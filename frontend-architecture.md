@@ -4,7 +4,7 @@ title: 'Front-end Engineering & Software Architecture'
 tagline: 'Professional Services by Nick Matantsev'
 ---
 
-Hi there, I am Nick, and I am ready to help architect, build out and deliver your next enterprise UI or portal. This area of software development has been my core focus for many years now, and I have a proven track record of confidently guiding technical effort and architecting against project risks. Plus, of course, actually writing code - lots and lots of it.
+Hi there, I am Nick, and I am ready to help architect, develop and deliver your next enterprise UI or portal. This area of software development has been my core focus for many years now, and I have a proven track record of confidently guiding technical effort and architecting against project risks. Plus, of course, actually writing code - lots and lots of it.
 
 ## Services
 
@@ -24,7 +24,7 @@ Developer coaching and sessions also available.
 
 ## Bio
 
-Nick Matantsev is an experienced software architect with over 14 years of planning, programming and maintaining enterprise software. Most recently, Nick has spent 3 years leading the development and roll-out of an enterprise videoconferencing product used by some of the world's largest telecom companies across twelve timezones. Nick's technical skillset is full-stack, and his production experience is centered on the finance, healthcare and telecom industries.
+Nick Matantsev is an experienced software architect with over 14 years of planning, programming and maintaining enterprise software. Most recently, Nick has spent 3 years leading the development and roll-out of an enterprise videoconferencing product used by some of the world's largest telecom companies across four continents. Nick's technical skillset is full-stack, and his production experience is centered on the finance, healthcare and telecom industries.
 
 Having spent years in lean and agile team environments, Nick is fluent in the Scrum process (product owner certification); he coaches developers, regularly presents on technical topics such as DevOps and front-end engineering and has authored several open source projects.
 
