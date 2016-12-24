@@ -9,7 +9,7 @@ I am available for project work; please see [my service sheet](/frontend-archite
 
 See my [code samples and open source projects on GitHub](https://github.com/unframework), [a few demos on CodePen](http://codepen.io/unframework/), my [Twitter profile](https://twitter.com/unframework) and [Medium posts](https://medium.com/@unframework) plus occasional [presentation upload on my SpeakerDeck page](https://speakerdeck.com/unframework). I also dabble in pictures: [see my Flickr profile](https://www.flickr.com/photos/nickmatantsev/).
 
-My life has always revolved around tech, having been born into a family of engineers. My mother worked as a lead programmer on her team, and brought home books about C, graphics algorithms and computer internals. My father fed me math challenges and assembly language instruction manuals. In high-school, I helped my friends set up websites and programmed server software for them. And my early start in the corporate world (aged 18, as a summer contract intern at a financial institution) helped me learn how to balance technical problem-solving against the *realpolitik* of large teams.
+My life has always revolved around tech, having been born into a family of engineers. My mother worked as a lead programmer on her team and brought home books about C, graphics algorithms and computer internals. My father fed me math challenges and assembly language instruction manuals. In high-school, I helped my friends set up websites and programmed server software for them. And my early start in the corporate world (aged 18, as a summer contract intern at a financial institution) helped me learn how to balance technical problem-solving against the *realpolitik* of large teams.
 
 Some of my more recent write-ups and research work follow.
 
