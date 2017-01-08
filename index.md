@@ -5,7 +5,7 @@ title: Personal website of Nick Matantsev
 
 My primary research interest is in modelling real-life communication and business workflows and using that to improve human process and automation. That means both back-end topics like data versioning and consistency and front-end matters like HCI/UX. In addition, I spend time analyzing software development techniques themselves - founded on a belief that [programming is theory-building](http://www.dc.uba.ar/materias/plp/cursos/material/programmingAsTheoryBuilding).
 
-I am available for project work; please see [my service sheet](/frontend-architecture)!
+I am available for project work; please see [my service sheet](/services/frontend-architecture)!
 
 See my [code samples and open source projects on GitHub](https://github.com/unframework), [a few demos on CodePen](http://codepen.io/unframework/), my [Twitter profile](https://twitter.com/unframework) and [Medium posts](https://medium.com/@unframework) plus occasional [presentation upload on my SpeakerDeck page](https://speakerdeck.com/unframework). I also dabble in pictures: [see my Flickr profile](https://www.flickr.com/photos/nickmatantsev/).
 

@@ -6,4 +6,4 @@ tagline: 'Professional Services by Nick Matantsev'
 
 Hey there! Thanks for scanning my card, well met!
 
-I am available for project work; please see [my service sheet](/frontend-architecture). It also has my up-to-date contact information.
+I am available for project work; please see [my service sheet](/services/frontend-architecture). It also has my up-to-date contact information.
