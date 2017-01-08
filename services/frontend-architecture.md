@@ -22,4 +22,4 @@ Available front-end development and software architecture services include:
 
 Developer coaching and sessions also available.
 
-{% include bio-contact.md %}
+{% include bio-contact.html %}
