@@ -54,6 +54,7 @@ Exploration of mobile product UX and packaging:
 
 Misc hacks:
 
+* [JS1k entry: Magic Hat](http://js1k.com/2017-magic/demo/2827) (JS animation demo in less than 1024 bytes)
 * [WebAudio music toy](/webaudio-music-toy): [live demo](http://unframework.github.io/eltrn/), [demo video](https://www.youtube.com/watch?v=uZM0nfuLfxM) and [source code](https://github.com/unframework/eltrn)
 * [Motepad: rich text editor rendered in pure JS and DOM](https://github.com/unframework/motepad)
 * [Cathode Green: side-scrolling bike physics platformer game in browser](https://github.com/unframework/cathode-green)
