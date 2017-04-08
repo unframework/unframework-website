@@ -12,7 +12,7 @@ Rich single-page application (SPA) front-end development has been my core focus 
 
 Available front-end development and software architecture services include:
 
-- React/Redux front-end with any backend (Node.js, Java, C#/.Net, PHP, AWS Lambda, legacy APIs)
+- React/Redux front-end with any backend (Node.js, Python/Django, Java, C#/.Net, PHP, AWS Lambda, legacy APIs)
 - Web enterprise portal login, SSO, forms, notifications, realtime WebSockets/Socket.io, legacy CMS embedding
 - multi-release, multi-language i18n pipeline, accessibility-savvy
 - mobile responsiveness and bandwidth optimization
