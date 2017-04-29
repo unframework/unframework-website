@@ -3,6 +3,8 @@ layout: front
 title: Personal website of Nick Matantsev
 ---
 
+I read books and write software.
+
 My primary research interest is in modelling real-life communication and business workflows and using that to improve human process and automation. That means both back-end topics like data versioning and consistency and front-end matters like HCI/UX. In addition, I spend time analyzing software development techniques themselves - founded on a belief that [programming is theory-building](http://www.dc.uba.ar/materias/plp/cursos/material/programmingAsTheoryBuilding).
 
 I am available for React/Redux front-end project work; please see [my service sheet](/services/react-development)!
