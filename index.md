@@ -7,7 +7,7 @@ I read books and write software.
 
 My primary research interest is in modelling real-life communication and business workflows and using that to improve human process and automation. That means both back-end topics like data versioning and consistency and front-end matters like HCI/UX. In addition, I spend time analyzing software development techniques themselves - founded on a belief that [programming is theory-building](http://www.dc.uba.ar/materias/plp/cursos/material/programmingAsTheoryBuilding).
 
-I am available to help you with React/Redux front-end development; please see [our technical service sheet](https://beamworks.io)!
+I am available to help you with React/Redux front-end development as part of the Beamworks ES developer team; please see [our technical service sheet](https://beamworks.io)!
 
 See my [code samples and open source projects on GitHub](https://github.com/unframework), [a few demos on CodePen](http://codepen.io/unframework/), my [Twitter profile](https://twitter.com/unframework) and [Medium posts](https://medium.com/@unframework) plus occasional [presentation upload on my SpeakerDeck page](https://speakerdeck.com/unframework). I also dabble in pictures: [see my Flickr profile](https://www.flickr.com/photos/nickmatantsev/).
 
