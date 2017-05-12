@@ -24,6 +24,7 @@ Ubiquitous UI/UX:
 
 UI architecture work:
 
+* Modeling UX affordances as a backbone concept for a ubiquitous UI component library
 * [UI Rendering: Change Detection Without Observables](/ui-repaint)
     * [vdom-live: minimalist virtual DOM render loop with no observables](https://github.com/unframework/vdom-live)
     * [html2hyperscript: Convert legacy HTML to Hyperscript](https://github.com/unframework/html2hyperscript) (quick helper utility for virtual-dom)
