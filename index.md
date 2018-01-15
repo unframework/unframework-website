@@ -5,7 +5,9 @@ title: Personal website of Nick Matantsev
 
 I read books and build software products.
 
-My primary research interest is in applying modeling techniques to real-life communication and business workflows and using that to improve and automate human processes, organizations and decision-making. In particular, I follow topics such as data versioning and consistency, HCI/UX and empowering "non-technical" folks to plug into a developer-like workflow. In addition, I spend time analyzing software development techniques themselves - founded on a belief that [programming is theory-building](http://www.dc.uba.ar/materias/plp/cursos/material/programmingAsTheoryBuilding) and based on undervalued concepts such as [DDD](https://en.wikipedia.org/wiki/Domain-driven_design).
+My primary research interest is in applying modeling techniques to real-life communication and business workflows and using that to improve and automate human processes, organizations and decision-making.
+
+In particular, I follow topics such as data versioning and consistency, HCI/UX and empowering "non-technical" folks to plug into a developer-like workflow. In addition, I spend time analyzing software development techniques themselves - founded on a belief that [programming is theory-building](http://www.dc.uba.ar/materias/plp/cursos/material/programmingAsTheoryBuilding) and based on undervalued concepts such as [DDD](https://en.wikipedia.org/wiki/Domain-driven_design).
 
 I am available to help you with React/Redux front-end development as part of the Beamworks ES developer team; please see [our technical service sheet](https://beamworks.io)!
 
@@ -59,6 +61,7 @@ Exploration of mobile product UX and packaging:
 
 Misc hacks:
 
+* [ChartGL](https://chartgl.zone): quick fun experiment with 3D bar and pie charts using React + WebGL + CSS 3D
 * [JS1k entry: Magic Hat](http://js1k.com/2017-magic/demo/2827) (JS animation demo in less than 1024 bytes)
 * [WebAudio music toy](/webaudio-music-toy): [live demo](http://unframework.github.io/eltrn/), [demo video](https://www.youtube.com/watch?v=uZM0nfuLfxM) and [source code](https://github.com/unframework/eltrn)
 * [Motepad: rich text editor rendered in pure JS and DOM](https://github.com/unframework/motepad)
