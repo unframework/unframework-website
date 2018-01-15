@@ -3,9 +3,9 @@ layout: front
 title: Personal website of Nick Matantsev
 ---
 
-I read books and write software.
+I read books and build software products.
 
-My primary research interest is in modelling real-life communication and business workflows and using that to improve human process and automation. That means both back-end topics like data versioning and consistency and front-end matters like HCI/UX. In addition, I spend time analyzing software development techniques themselves - founded on a belief that [programming is theory-building](http://www.dc.uba.ar/materias/plp/cursos/material/programmingAsTheoryBuilding).
+My primary research interest is in applying modeling techniques to real-life communication and business workflows and using that to improve and automate human processes, organizations and decision-making. In particular, I follow topics such as data versioning and consistency, HCI/UX and empowering "non-technical" folks to plug into a developer-like workflow. In addition, I spend time analyzing software development techniques themselves - founded on a belief that [programming is theory-building](http://www.dc.uba.ar/materias/plp/cursos/material/programmingAsTheoryBuilding) and based on undervalued concepts such as [DDD](https://en.wikipedia.org/wiki/Domain-driven_design).
 
 I am available to help you with React/Redux front-end development as part of the Beamworks ES developer team; please see [our technical service sheet](https://beamworks.io)!
 
@@ -25,6 +25,8 @@ Ubiquitous UI/UX:
 UI architecture work:
 
 * Modeling UX affordances as a backbone concept for a ubiquitous UI component library
+    * [react-dynamics: integrating Promises into React](https://github.com/beamworks/react-dynamics)
+    * [react-collectable: flexible form validation with uncontrolled input components](https://github.com/beamworks/react-collectable)
 * [UI Rendering: Change Detection Without Observables](/ui-repaint)
     * [vdom-live: minimalist virtual DOM render loop with no observables](https://github.com/unframework/vdom-live)
     * [html2hyperscript: Convert legacy HTML to Hyperscript](https://github.com/unframework/html2hyperscript) (quick helper utility for virtual-dom)
