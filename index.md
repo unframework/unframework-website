@@ -3,17 +3,22 @@ layout: front
 title: Personal website of Nick Matantsev
 ---
 
-I read books and build software products.
+I read books and work with software.
 
-My primary research interest is in applying modeling techniques to real-life communication and business workflows and using that to improve and automate human processes, organizations and decision-making.
+My primary interests are in domain modeling, analysis and automation. In addition, I follow topics such as generative art, HCI/UX, developer tooling and hobby electronics. A lot of my work is based on the idea that [programming is theory-building](http://www.dc.uba.ar/materias/plp/cursos/material/programmingAsTheoryBuilding) and is inspired by [domain-driven design](https://en.wikipedia.org/wiki/Domain-driven_design), CQRS, functional programming, etc.
 
-In particular, I follow topics such as data versioning and consistency, HCI/UX and empowering "non-technical" folks to plug into a developer-like workflow. In addition, I spend time analyzing software development techniques themselves - founded on a belief that [programming is theory-building](http://www.dc.uba.ar/materias/plp/cursos/material/programmingAsTheoryBuilding) and based on undervalued concepts such as [DDD](https://en.wikipedia.org/wiki/Domain-driven_design).
+I am currently a lead front-end developer with [Beamworks](https://beamworks.io), a small React agency.
 
-I am available to help you with React/Redux front-end development as part of the Beamworks ES developer team; please see [our technical service sheet](https://beamworks.io)!
+Some links:
 
-See my [code samples and open source projects on GitHub](https://github.com/unframework), [a few demos on CodePen](http://codepen.io/unframework/), my [Twitter profile](https://twitter.com/unframework) and [Medium posts](https://medium.com/@unframework) plus occasional [presentation upload on my SpeakerDeck page](https://speakerdeck.com/unframework). I also dabble in pictures: [see my Flickr profile](https://www.flickr.com/photos/nickmatantsev/).
+- [GitHub projects](https://github.com/unframework)
+- [CodePen demos](http://codepen.io/unframework/)
+- [Twitter profile](https://twitter.com/unframework)
+- [Medium profile](https://medium.com/@unframework)
+- [SpeakerDeck page](https://speakerdeck.com/unframework)
+- [Flickr photos](https://www.flickr.com/photos/nickmatantsev/)
 
-I was born into a family of engineers, and my life has always revolved around tech. My mother worked as a lead programmer on her team and brought home books about C, graphics algorithms and computer internals. My father supplied me with a constant stream of math challenges and assembly language instruction manuals. In high-school, I helped my friends set up websites and programmed server software for them. And my early professional start as a summer contract intern at a financial institution helped me learn how to balance technical problem-solving against the *realpolitik* of large teams.
+I was born into a family of engineers: my mom was a programming team lead and my dad worked in avionics and engineering. Tech was a presence in my life since early childhood: I grew up reading books about C and Assembly, graphics algorithms and computer internals, scavenged for bootleg CDs on flea markets and coded websites for my friends in high school. My first "computer job" was automating DevOps (before DevOps was a thing) and since then I have slowly climbed the web stack from the back-end to front-end, ending up with me founding a boutique dev shop focusing purely on React-based UI development.
 
 Some of my more recent write-ups and research work follow.
 
