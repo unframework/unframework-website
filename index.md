@@ -7,7 +7,7 @@ I read books and work with software.
 
 My primary interests are in domain modeling, analysis and automation. In addition, I follow topics such as generative art, HCI/UX, developer tooling and hobby electronics. A lot of my work is based on the idea that [programming is theory-building](http://www.dc.uba.ar/materias/plp/cursos/material/programmingAsTheoryBuilding) and is inspired by [domain-driven design](https://en.wikipedia.org/wiki/Domain-driven_design), CQRS, functional programming, etc.
 
-I am currently a lead front-end developer and founder of [Beamworks](https://beamworks.io), a small React front-end agency.
+I am currently a lead front-end developer at [Beamworks](https://beamworks.io), a small React front-end agency that I founded.
 
 Some links:
 
@@ -20,7 +20,7 @@ Some links:
 
 ## A bit more about me
 
-I was born into a family of engineers: my mom was a programming team lead and my dad worked in avionics and engineering. Tech was a presence in my life since early childhood: I grew up reading books about C and Assembly, graphics algorithms and computer internals, scavenged for bootleg CDs on flea markets and coded websites for my friends in high school. My first "computer job" was automating DevOps (before DevOps was a thing) and since then I have slowly climbed the web stack from the back-end to front-end, ending up with me founding a boutique dev shop focusing purely on React-based UI development.
+I was born into a family of engineers: my mom was a programming team lead and my dad worked in avionics and engineering. Tech was a presence in my life since early childhood: I grew up reading books about C and Assembly, graphics algorithms and computer internals, scavenged for bootleg CDs at flea markets and coded websites for my friends in high school. My first "computer job" was automating DevOps (before DevOps was a thing) but since then I have slowly climbed the web stack from the back-end to front-end, ending up with me founding a boutique dev shop focusing purely on React-based UI development.
 
 ## Misc fun hacks and demos
 
