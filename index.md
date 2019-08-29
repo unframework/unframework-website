@@ -7,7 +7,7 @@ I read books and work with software.
 
 My primary interests are in domain modeling, analysis and automation. In addition, I follow topics such as generative art, HCI/UX, developer tooling and hobby electronics. A lot of my work is based on the idea that [programming is theory-building](http://www.dc.uba.ar/materias/plp/cursos/material/programmingAsTheoryBuilding) and is inspired by [domain-driven design](https://en.wikipedia.org/wiki/Domain-driven_design), CQRS, functional programming, etc.
 
-I am currently a lead front-end developer with [Beamworks](https://beamworks.io), a small React agency.
+I am currently a lead front-end developer and founder of [Beamworks](https://beamworks.io), a small React front-end agency.
 
 Some links:
 
@@ -25,11 +25,12 @@ I was born into a family of engineers: my mom was a programming team lead and my
 ## Misc fun hacks and demos
 
 * CodePen demos
+    * https://codepen.io/unframework/pen/MWgpyvw - infinite WebGL subdivision loop with analog CRT effect
     * https://codepen.io/unframework/pen/pqorjJ - Matrix screensaver with analog CRT effect in WebGL
     * https://codepen.io/unframework/pen/XyayoM - quick 3D bar and pie charts using React + WebGL + CSS 3D
     * https://codepen.io/unframework/pen/OrOMBg - stylized animated flag in the wind
     * https://codepen.io/unframework/pen/LbaLvG - pure-CSS flip-clock animation
-* [Midnight Tactix 3000](https://twitter.com/atesgoral/status/993972666540417024) (fun tribute to Outrun/ChaseHQ built as a game jam entry with my friend)
+* [Midnight Tactix 3000](https://twitter.com/atesgoral/status/993972666540417024) (fun tribute to Outrun/ChaseHQ built as a game jam entry with a friend)
 * [TinTTY terminal emulator](https://hackaday.io/project/27359-tiny-wearable-8-bit-vt100-console) (Arduino-based VT100 emulator for a 1in screen)
 * [JS1k entry: Magic Hat](http://js1k.com/2017-magic/demo/2827) (JS animation demo in less than 1024 bytes)
 * [WebAudio music toy](/webaudio-music-toy): [live demo](http://unframework.github.io/eltrn/), [demo video](https://www.youtube.com/watch?v=uZM0nfuLfxM) and [source code](https://github.com/unframework/eltrn)
